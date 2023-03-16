@@ -1,0 +1,31 @@
+C:\Users\mahdi\Desktop\Your Name Technical Test\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mahdi\Desktop\Your Name Technical Test\bin\Debug\net7.0\appsettings.json
+C:\Users\mahdi\Desktop\Your Name Technical Test\bin\Debug\net7.0\Your Name Technical Test.staticwebassets.runtime.json
+C:\Users\mahdi\Desktop\Your Name Technical Test\bin\Debug\net7.0\Your Name Technical Test.exe
+C:\Users\mahdi\Desktop\Your Name Technical Test\bin\Debug\net7.0\Your Name Technical Test.deps.json
+C:\Users\mahdi\Desktop\Your Name Technical Test\bin\Debug\net7.0\Your Name Technical Test.runtimeconfig.json
+C:\Users\mahdi\Desktop\Your Name Technical Test\bin\Debug\net7.0\Your Name Technical Test.dll
+C:\Users\mahdi\Desktop\Your Name Technical Test\bin\Debug\net7.0\Your Name Technical Test.pdb
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.csproj.AssemblyReference.cache
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.AssemblyInfoInputs.cache
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.AssemblyInfo.cs
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.RazorAssemblyInfo.cache
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.RazorAssemblyInfo.cs
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\staticwebassets\msbuild.Your Name Technical Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\staticwebassets\msbuild.build.Your Name Technical Test.props
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Your Name Technical Test.props
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Your Name Technical Test.props
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\scopedcss\bundle\Your Name Technical Test.styles.css
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\scopedcss\projectbundle\Your Name Technical Test.bundle.scp.css
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.dll
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\refint\Your Name Technical Test.dll
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.pdb
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\Your Name Technical Test.genruntimeconfig.cache
+C:\Users\mahdi\Desktop\Your Name Technical Test\obj\Debug\net7.0\ref\Your Name Technical Test.dll

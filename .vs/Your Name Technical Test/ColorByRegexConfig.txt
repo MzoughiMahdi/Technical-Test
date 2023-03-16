@@ -1,0 +1,9 @@
+//Ce fichier contient des règles de couleur des onglets de document par expressions régulières. Chaque ligne contient une expression régulière qui sera testée par rapport au chemin d’accès d’un fichier. Tous les fichiers correspondant à une expression régulière partageront une couleur.
+//Les expressions régulières seront mises en correspondance dans l’ordre dans lequel elles apparaissent dans ce fichier. Consultez https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions pour la syntaxe.
+//Modifiez ce fichier et enregistrez vos modifications pour que les modifications soient appliquées immédiatement. Les erreurs rencontrées lors de l’analyse ou de l’évaluation des expressions apparaîtront dans le fichier XML du journal d’activité.
+//Vous pouvez personnaliser la couleur attribuée à n’importe quel groupe de fichiers en cliquant avec le bouton droit sur l’onglet et en choisissant « Définir la couleur de l’onglet ».
+^.*\.cs$
+^.*\.fs$
+^.*\.vb$
+^.*\.cp?p?$
+^.*\.hp?p?$
